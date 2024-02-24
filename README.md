@@ -1,6 +1,6 @@
 # StableCascade by Rikkar
 
-![StableCascade Image](src\app.png)
+![StableCascade Image](src/app.png)
 
 ## Setup Instructions
 
