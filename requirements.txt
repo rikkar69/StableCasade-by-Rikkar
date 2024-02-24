@@ -1,0 +1,7 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+git+https://github.com/kashif/diffusers.git@a3dc21385b7386beb3dab3a9845962ede6765887
+gradio
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.37.2
+accelerate==0.27.2
